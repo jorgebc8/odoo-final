@@ -1,13 +1,11 @@
-# -*- encoding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 
 {
     'name': 'Identification Fiscale',
     'version': '0.1',
-    'author': 'Adiba Boufeldja',
+    'author': 'Jorge Bermudez',
     'category': 'Extension de res partner',
-    'description': "un module qui va herite de gestion facturation",
+    'description': "un modula que gestiona una factura",
     'depends': [
                 'account_invoicing'
                 ],
